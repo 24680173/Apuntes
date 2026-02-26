@@ -5,7 +5,7 @@ La computación gráfica es el campo de la informática visual, donde se utiliza
 Un gráfico es cuando existe algún trazo o marca que han sido hechos con intencionalidad. Lo gráfico, tiene por objeto representar (tomar el lugar de, o de presentar de nuevo) alguna cosa que no está.
 Un gran avance en gráficos por ordenador iba a venir de un estudiantedel MIT, Ivan Sutherland. En 1961 Sutherland creó un programa de dibujoinformático llamado “Sketchpad”.
  Conel uso de un lápiz óptico, Sketchpadpermitía a uno dibujar formas simples enla pantalla del ordenador, salvarlos eincluso su posterior recuperarlos. El lápizóptico en sí tenía una pequeña célulafotoeléctrica en la punta. Esta célulaemite un pulso electrónico cada vezque se colocaba adelante de lapantalla del ordenador
-
+ 
 ## 1.2 Línea del Tiempo de la Historia de la Graficación por Computadora.
 1950.
 La graficación por computadora tuvo sus inicios con el surgimiento de lascomputadoras digitales. Una computadora digital como la Whirlwhin de la Mit fueuna de las primeras en utilizar una pantalla capaz de representar gráficos.
