@@ -249,3 +249,8 @@ Paso 5: Comprobar el Resultado
 Después de realizar los pasos anteriores, la cara seleccionada mostrará el nuevo material aplicado (por ejemplo, color rojo). Esta se distinguirá del resto del objeto y podrá visualizarse con iluminación y texturas en tiempo real.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f9c3cebc-d5ac-442e-8227-42c59c350e2b" />
 
+# BIBLIOGRAFIAS
+https://thelink9512.wixsite.com/graficacion/formatos-de-imagen
+Client challenge. (s. f.). https://es.scribd.com/document/413652207/1-6-Formatos-de-Imagen
+Client challenge. (s. f.-b). https://es.slideshare.net/slideshow/1-4-modelos-del-color-rbg-cmy-hsv-y-hsl-pdf/282295713
+Antonio. (2016, 19 junio). Modelos de color (RGB, CMYK, HSV/HSL). Antonio Herrera. https://ahenav.wordpress.com/2014/04/09/modelos-de-color/
